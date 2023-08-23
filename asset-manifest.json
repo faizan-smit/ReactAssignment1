@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c138432f.css",
+    "main.js": "/static/js/main.9d91c00f.js",
+    "static/js/787.a71561b8.chunk.js": "/static/js/787.a71561b8.chunk.js",
+    "static/media/faizanalam.jpg": "/static/media/faizanalam.c9b495f5599971d16516.jpg",
+    "index.html": "/index.html",
+    "main.c138432f.css.map": "/static/css/main.c138432f.css.map",
+    "main.9d91c00f.js.map": "/static/js/main.9d91c00f.js.map",
+    "787.a71561b8.chunk.js.map": "/static/js/787.a71561b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c138432f.css",
+    "static/js/main.9d91c00f.js"
+  ]
+}
